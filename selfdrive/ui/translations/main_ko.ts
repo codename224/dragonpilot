@@ -367,9 +367,9 @@
     </message>
     <message>
         <source>Get turn-by-turn directions displayed and more with a comma
-prime subscription. Sign up now: https://connect.comma.ai</source>
+prime subscription. Sign up now: https://connect.retropilot.org</source>
         <translation>자세한 경로안내를 원하시면 comma prime을 구독하세요.
-등록：https://connect.comma.ai</translation>
+등록：https://connect.retropilot.org</translation>
     </message>
     <message>
         <source>No home
@@ -451,16 +451,16 @@ location set</source>
         <translation>장치를 콤마 계정과 페어링합니다</translation>
     </message>
     <message>
-        <source>Go to https://connect.comma.ai on your phone</source>
-        <translation>https://connect.comma.ai에 접속하세요</translation>
+        <source>Go to https://connect.retropilot.org on your phone</source>
+        <translation>https://connect.retropilot.org에 접속하세요</translation>
     </message>
     <message>
         <source>Click &quot;add new device&quot; and scan the QR code on the right</source>
         <translation>&quot;새 장치 추가&quot;를 클릭하고 오른쪽 QR 코드를 검색합니다</translation>
     </message>
     <message>
-        <source>Bookmark connect.comma.ai to your home screen to use it like an app</source>
-        <translation>connect.comma.ai을 앱처럼 사용하려면 홈 화면에 바로가기를 만드십시오</translation>
+        <source>Bookmark connect.retropilot.org to your home screen to use it like an app</source>
+        <translation>connect.retropilot.org을 앱처럼 사용하려면 홈 화면에 바로가기를 만드십시오</translation>
     </message>
 </context>
 <context>
@@ -470,8 +470,8 @@ location set</source>
         <translation>지금 업그레이드</translation>
     </message>
     <message>
-        <source>Become a comma prime member at connect.comma.ai</source>
-        <translation>connect.comma.ai에서 comma prime에 가입합니다</translation>
+        <source>Become a comma prime member at connect.retropilot.org</source>
+        <translation>connect.retropilot.org에서 comma prime에 가입합니다</translation>
     </message>
     <message>
         <source>PRIME FEATURES:</source>
@@ -501,8 +501,8 @@ location set</source>
         <translation>comma prime</translation>
     </message>
     <message>
-        <source>CONNECT.COMMA.AI</source>
-        <translation>CONNECT.COMMA.AI</translation>
+        <source>CONNECT.retropilot.org</source>
+        <translation>CONNECT.retropilot.org</translation>
     </message>
     <message>
         <source>COMMA POINTS</source>
@@ -709,8 +709,8 @@ location set</source>
         <translation>설정 완료</translation>
     </message>
     <message>
-        <source>Pair your device with comma connect (connect.comma.ai) and claim your comma prime offer.</source>
-        <translation>장치를 (connect.comma.ai)에서 페어링하고 comma prime 오퍼를 청구합니다.</translation>
+        <source>Pair your device with comma connect (connect.retropilot.org) and claim your comma prime offer.</source>
+        <translation>장치를 (connect.retropilot.org)에서 페어링하고 comma prime 오퍼를 청구합니다.</translation>
     </message>
     <message>
         <source>Pair device</source>

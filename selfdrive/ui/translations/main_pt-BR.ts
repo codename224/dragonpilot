@@ -368,9 +368,9 @@
     </message>
     <message>
         <source>Get turn-by-turn directions displayed and more with a comma
-prime subscription. Sign up now: https://connect.comma.ai</source>
+prime subscription. Sign up now: https://connect.retropilot.org</source>
         <translation>Obtenha instruções passo a passo exibidas e muito mais com 
-uma assinatura prime Inscreva-se agora:  https://connect.comma.ai</translation>
+uma assinatura prime Inscreva-se agora:  https://connect.retropilot.org</translation>
     </message>
     <message>
         <source>No home
@@ -452,16 +452,16 @@ trabalho definido</translation>
         <translation>Pareie seu dispositivo à sua conta comma</translation>
     </message>
     <message>
-        <source>Go to https://connect.comma.ai on your phone</source>
-        <translation>navegue até https://connect.comma.ai no seu telefone</translation>
+        <source>Go to https://connect.retropilot.org on your phone</source>
+        <translation>navegue até https://connect.retropilot.org no seu telefone</translation>
     </message>
     <message>
         <source>Click &quot;add new device&quot; and scan the QR code on the right</source>
         <translation>Clique &quot;add new device&quot; e escaneie o QR code a seguir</translation>
     </message>
     <message>
-        <source>Bookmark connect.comma.ai to your home screen to use it like an app</source>
-        <translation>Salve connect.comma.ai como sua página inicial para utilizar como um app</translation>
+        <source>Bookmark connect.retropilot.org to your home screen to use it like an app</source>
+        <translation>Salve connect.retropilot.org como sua página inicial para utilizar como um app</translation>
     </message>
 </context>
 <context>
@@ -471,8 +471,8 @@ trabalho definido</translation>
         <translation>Atualizar Agora</translation>
     </message>
     <message>
-        <source>Become a comma prime member at connect.comma.ai</source>
-        <translation>Torne-se um membro comma prime em connect.comma.ai</translation>
+        <source>Become a comma prime member at connect.retropilot.org</source>
+        <translation>Torne-se um membro comma prime em connect.retropilot.org</translation>
     </message>
     <message>
         <source>PRIME FEATURES:</source>
@@ -502,8 +502,8 @@ trabalho definido</translation>
         <translation>comma prime</translation>
     </message>
     <message>
-        <source>CONNECT.COMMA.AI</source>
-        <translation>CONNECT.COMMA.AI</translation>
+        <source>CONNECT.retropilot.org</source>
+        <translation>CONNECT.retropilot.org</translation>
     </message>
     <message>
         <source>COMMA POINTS</source>
@@ -713,8 +713,8 @@ trabalho definido</translation>
         <translation>Concluir</translation>
     </message>
     <message>
-        <source>Pair your device with comma connect (connect.comma.ai) and claim your comma prime offer.</source>
-        <translation>Pareie seu dispositivo com comma connect (connect.comma.ai) e reivindique sua oferta de comma prime.</translation>
+        <source>Pair your device with comma connect (connect.retropilot.org) and claim your comma prime offer.</source>
+        <translation>Pareie seu dispositivo com comma connect (connect.retropilot.org) e reivindique sua oferta de comma prime.</translation>
     </message>
     <message>
         <source>Pair device</source>

@@ -367,9 +367,9 @@
     </message>
     <message>
         <source>Get turn-by-turn directions displayed and more with a comma
-prime subscription. Sign up now: https://connect.comma.ai</source>
+prime subscription. Sign up now: https://connect.retropilot.org</source>
         <translation>รับการแสดงเส้นทางแบบเลี้ยวต่อเลี้ยว และอื่นๆ ด้วยการสมัครบริการ
-comma prime สมัครเลย: https://connect.comma.ai</translation>
+comma prime สมัครเลย: https://connect.retropilot.org</translation>
     </message>
     <message>
         <source>No home
@@ -451,16 +451,16 @@ location set</source>
         <translation>จับคู่อุปกรณ์ของคุณกับบัญชี comma ของคุณ</translation>
     </message>
     <message>
-        <source>Go to https://connect.comma.ai on your phone</source>
-        <translation>ไปที่ https://connect.comma.ai ด้วยโทรศัพท์ของคุณ</translation>
+        <source>Go to https://connect.retropilot.org on your phone</source>
+        <translation>ไปที่ https://connect.retropilot.org ด้วยโทรศัพท์ของคุณ</translation>
     </message>
     <message>
         <source>Click &quot;add new device&quot; and scan the QR code on the right</source>
         <translation>กดที่ &quot;add new device&quot; และสแกนคิวอาร์โค้ดทางด้านขวา</translation>
     </message>
     <message>
-        <source>Bookmark connect.comma.ai to your home screen to use it like an app</source>
-        <translation>จดจำ connect.comma.ai โดยการเพิ่มไปยังหน้าจอโฮม เพื่อใช้งานเหมือนเป็นแอปพลิเคชัน</translation>
+        <source>Bookmark connect.retropilot.org to your home screen to use it like an app</source>
+        <translation>จดจำ connect.retropilot.org โดยการเพิ่มไปยังหน้าจอโฮม เพื่อใช้งานเหมือนเป็นแอปพลิเคชัน</translation>
     </message>
 </context>
 <context>
@@ -470,8 +470,8 @@ location set</source>
         <translation>อัพเกรดเดี๋ยวนี้</translation>
     </message>
     <message>
-        <source>Become a comma prime member at connect.comma.ai</source>
-        <translation>สมัครสมาชิก comma prime ได้ที่ connect.comma.ai</translation>
+        <source>Become a comma prime member at connect.retropilot.org</source>
+        <translation>สมัครสมาชิก comma prime ได้ที่ connect.retropilot.org</translation>
     </message>
     <message>
         <source>PRIME FEATURES:</source>
@@ -501,8 +501,8 @@ location set</source>
         <translation>comma prime</translation>
     </message>
     <message>
-        <source>CONNECT.COMMA.AI</source>
-        <translation>CONNECT.COMMA.AI</translation>
+        <source>CONNECT.retropilot.org</source>
+        <translation>CONNECT.retropilot.org</translation>
     </message>
     <message>
         <source>COMMA POINTS</source>
@@ -709,8 +709,8 @@ location set</source>
         <translation>ตั้งค่าเสร็จสิ้น</translation>
     </message>
     <message>
-        <source>Pair your device with comma connect (connect.comma.ai) and claim your comma prime offer.</source>
-        <translation>จับคู่อุปกรณ์ของคุณกับ comma connect (connect.comma.ai) และรับข้อเสนอ comma prime ของคุณ</translation>
+        <source>Pair your device with comma connect (connect.retropilot.org) and claim your comma prime offer.</source>
+        <translation>จับคู่อุปกรณ์ของคุณกับ comma connect (connect.retropilot.org) และรับข้อเสนอ comma prime ของคุณ</translation>
     </message>
     <message>
         <source>Pair device</source>

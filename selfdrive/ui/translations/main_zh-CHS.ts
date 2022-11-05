@@ -367,9 +367,9 @@
     </message>
     <message>
         <source>Get turn-by-turn directions displayed and more with a comma
-prime subscription. Sign up now: https://connect.comma.ai</source>
+prime subscription. Sign up now: https://connect.retropilot.org</source>
         <translation>订阅comma prime以获取导航。
-立即注册：https://connect.comma.ai</translation>
+立即注册：https://connect.retropilot.org</translation>
     </message>
     <message>
         <source>No home
@@ -449,16 +449,16 @@ location set</source>
         <translation>将您的设备与comma账号配对</translation>
     </message>
     <message>
-        <source>Go to https://connect.comma.ai on your phone</source>
-        <translation>在手机上访问 https://connect.comma.ai</translation>
+        <source>Go to https://connect.retropilot.org on your phone</source>
+        <translation>在手机上访问 https://connect.retropilot.org</translation>
     </message>
     <message>
         <source>Click &quot;add new device&quot; and scan the QR code on the right</source>
         <translation>点击“添加新设备”，扫描右侧二维码</translation>
     </message>
     <message>
-        <source>Bookmark connect.comma.ai to your home screen to use it like an app</source>
-        <translation>将 connect.comma.ai 收藏到您的主屏幕，以便像应用程序一样使用它</translation>
+        <source>Bookmark connect.retropilot.org to your home screen to use it like an app</source>
+        <translation>将 connect.retropilot.org 收藏到您的主屏幕，以便像应用程序一样使用它</translation>
     </message>
 </context>
 <context>
@@ -468,8 +468,8 @@ location set</source>
         <translation>现在升级</translation>
     </message>
     <message>
-        <source>Become a comma prime member at connect.comma.ai</source>
-        <translation>打开connect.comma.ai以注册comma prime会员</translation>
+        <source>Become a comma prime member at connect.retropilot.org</source>
+        <translation>打开connect.retropilot.org以注册comma prime会员</translation>
     </message>
     <message>
         <source>PRIME FEATURES:</source>
@@ -499,8 +499,8 @@ location set</source>
         <translation>comma prime</translation>
     </message>
     <message>
-        <source>CONNECT.COMMA.AI</source>
-        <translation>CONNECT.COMMA.AI</translation>
+        <source>CONNECT.retropilot.org</source>
+        <translation>CONNECT.retropilot.org</translation>
     </message>
     <message>
         <source>COMMA POINTS</source>
@@ -707,8 +707,8 @@ location set</source>
         <translation>完成设置</translation>
     </message>
     <message>
-        <source>Pair your device with comma connect (connect.comma.ai) and claim your comma prime offer.</source>
-        <translation>将您的设备与comma connect （connect.comma.ai）配对并领取您的comma prime优惠。</translation>
+        <source>Pair your device with comma connect (connect.retropilot.org) and claim your comma prime offer.</source>
+        <translation>将您的设备与comma connect （connect.retropilot.org）配对并领取您的comma prime优惠。</translation>
     </message>
     <message>
         <source>Pair device</source>

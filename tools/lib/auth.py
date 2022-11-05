@@ -18,7 +18,7 @@ Examples::
 
   ./auth.py  # Log in with google account
   ./auth.py github  # Log in with GitHub Account
-  ./auth.py jwt ey......hw  # Log in with a JWT from https://jwt.comma.ai, for use in CI
+  ./auth.py jwt ey......hw  # Log in with a JWT from https://jwt.retropilot.org, for use in CI
 """
 
 import argparse
@@ -66,7 +66,7 @@ def auth_redirect_link(method):
   }[method]
 
   params = {
-    'redirect_uri': f"https://api.comma.ai/v2/auth/{provider_id}/redirect/",
+    'redirect_uri': f"https://api.retropilot.org/v2/auth/{provider_id}/redirect/",
     'state': f'service,localhost:{PORT}',
   }
 

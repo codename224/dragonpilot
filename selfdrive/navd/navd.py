@@ -59,7 +59,7 @@ class RouteEngine:
       except FileNotFoundError:
         cloudlog.exception("Failed to generate mapbox token due to missing private key. Ensure device is registered.")
         self.mapbox_token = ""
-      self.mapbox_host = "https://maps.comma.ai"
+      self.mapbox_host = "https://maps.retropilot.org"
 
   def update(self):
     self.sm.update(0)

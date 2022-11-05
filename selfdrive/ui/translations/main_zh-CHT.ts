@@ -367,9 +367,9 @@
     </message>
     <message>
         <source>Get turn-by-turn directions displayed and more with a comma
-prime subscription. Sign up now: https://connect.comma.ai</source>
+prime subscription. Sign up now: https://connect.retropilot.org</source>
         <translation>成為 comma 高級會員來使用導航功能
-立即註冊：https://connect.comma.ai</translation>
+立即註冊：https://connect.retropilot.org</translation>
     </message>
     <message>
         <source>No home
@@ -451,16 +451,16 @@ location set</source>
         <translation>將設備與您的 comma 帳號配對</translation>
     </message>
     <message>
-        <source>Go to https://connect.comma.ai on your phone</source>
-        <translation>用手機連至 https://connect.comma.ai</translation>
+        <source>Go to https://connect.retropilot.org on your phone</source>
+        <translation>用手機連至 https://connect.retropilot.org</translation>
     </message>
     <message>
         <source>Click &quot;add new device&quot; and scan the QR code on the right</source>
         <translation>點選 &quot;add new device&quot; 後掃描右邊的二維碼</translation>
     </message>
     <message>
-        <source>Bookmark connect.comma.ai to your home screen to use it like an app</source>
-        <translation>將 connect.comma.ai 加入您的主屏幕，以便像手機 App 一樣使用它</translation>
+        <source>Bookmark connect.retropilot.org to your home screen to use it like an app</source>
+        <translation>將 connect.retropilot.org 加入您的主屏幕，以便像手機 App 一樣使用它</translation>
     </message>
 </context>
 <context>
@@ -470,8 +470,8 @@ location set</source>
         <translation>馬上升級</translation>
     </message>
     <message>
-        <source>Become a comma prime member at connect.comma.ai</source>
-        <translation>成為 connect.comma.ai 的高級會員</translation>
+        <source>Become a comma prime member at connect.retropilot.org</source>
+        <translation>成為 connect.retropilot.org 的高級會員</translation>
     </message>
     <message>
         <source>PRIME FEATURES:</source>
@@ -501,8 +501,8 @@ location set</source>
         <translation>comma 高級會員</translation>
     </message>
     <message>
-        <source>CONNECT.COMMA.AI</source>
-        <translation>CONNECT.COMMA.AI</translation>
+        <source>CONNECT.retropilot.org</source>
+        <translation>CONNECT.retropilot.org</translation>
     </message>
     <message>
         <source>COMMA POINTS</source>
@@ -709,8 +709,8 @@ location set</source>
         <translation>完成設置</translation>
     </message>
     <message>
-        <source>Pair your device with comma connect (connect.comma.ai) and claim your comma prime offer.</source>
-        <translation>將您的設備與 comma connect (connect.comma.ai) 配對並領取您的 comma 高級會員優惠。</translation>
+        <source>Pair your device with comma connect (connect.retropilot.org) and claim your comma prime offer.</source>
+        <translation>將您的設備與 comma connect (connect.retropilot.org) 配對並領取您的 comma 高級會員優惠。</translation>
     </message>
     <message>
         <source>Pair device</source>

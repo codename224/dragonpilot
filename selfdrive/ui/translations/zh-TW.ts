@@ -1090,8 +1090,8 @@ op控製縱向車型三角形顯示為實心。</translation>
     </message>
     <message>
         <source>Get turn-by-turn directions displayed and more with a comma
-prime subscription. Sign up now: https://connect.comma.ai</source>
-        <translation type="vanished">成為 comma 高級會員來使用導航功能，立即註冊：https://connect.comma.ai</translation>
+prime subscription. Sign up now: https://connect.retropilot.org</source>
+        <translation type="vanished">成為 comma 高級會員來使用導航功能，立即註冊：https://connect.retropilot.org</translation>
     </message>
     <message>
         <source>No home
@@ -1123,8 +1123,8 @@ location set</source>
     </message>
     <message>
         <source>Get turn-by-turn directions displayed and more with a comma
-prime subscription. Sign up now: https://connect.comma.ai</source>
-        <translation>成為 comma 高級會員來使用導航功能，立即註冊：https://connect.comma.ai</translation>
+prime subscription. Sign up now: https://connect.retropilot.org</source>
+        <translation>成為 comma 高級會員來使用導航功能，立即註冊：https://connect.retropilot.org</translation>
     </message>
 </context>
 <context>
@@ -1298,8 +1298,8 @@ prime subscription. Sign up now: https://connect.comma.ai</source>
         <translation>馬上升級</translation>
     </message>
     <message>
-        <source>Become a comma prime member at connect.comma.ai</source>
-        <translation>成為 connect.comma.ai 的高級會員</translation>
+        <source>Become a comma prime member at connect.retropilot.org</source>
+        <translation>成為 connect.retropilot.org 的高級會員</translation>
     </message>
     <message>
         <source>PRIME FEATURES:</source>
@@ -1346,8 +1346,8 @@ prime subscription. Sign up now: https://connect.comma.ai</source>
         <translation>COMMA 點數</translation>
     </message>
     <message>
-        <source>CONNECT.COMMA.AI</source>
-        <translation>CONNECT.COMMA.AI</translation>
+        <source>CONNECT.retropilot.org</source>
+        <translation>CONNECT.retropilot.org</translation>
     </message>
 </context>
 <context>
@@ -2069,7 +2069,7 @@ Please note:
         <translation type="vanished">掃描 QR 碼配對。</translation>
     </message>
     <message>
-        <source>Pair your device with comma connect (connect.comma.ai) and claim your comma prime offer.</source>
+        <source>Pair your device with comma connect (connect.retropilot.org) and claim your comma prime offer.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2363,7 +2363,7 @@ SEARCH</source>
         <translation type="vanished">啟用社群維護功能</translation>
     </message>
     <message>
-        <source>Use features from the open source community that are not maintained or supported by comma.ai and have not been confirmed to meet the standard safety model. These features include community supported cars and community supported hardware. Be extra cautious when using these features</source>
+        <source>Use features from the open source community that are not maintained or supported by retropilot.org and have not been confirmed to meet the standard safety model. These features include community supported cars and community supported hardware. Be extra cautious when using these features</source>
         <translation type="vanished">使用來自開源社區開發維護的功能，這些軟硬體不受官方支援維護，有可能不符合安全標準，請謹慎使用</translation>
     </message>
     <message>
@@ -2371,8 +2371,8 @@ SEARCH</source>
         <translation type="vanished">上傳原始行車記錄</translation>
     </message>
     <message>
-        <source>Upload full logs and full resolution video by default while on WiFi. If not enabled, individual logs can be marked for upload at my.comma.ai/useradmin.</source>
-        <translation type="vanished">透過無線網路上傳完整的行車記錄以及錄像，如果關閉，您可以至 my.comma.ai/useradmin 手動標注上傳狀態。</translation>
+        <source>Upload full logs and full resolution video by default while on WiFi. If not enabled, individual logs can be marked for upload at my.retropilot.org/useradmin.</source>
+        <translation type="vanished">透過無線網路上傳完整的行車記錄以及錄像，如果關閉，您可以至 my.retropilot.org/useradmin 手動標注上傳狀態。</translation>
     </message>
     <message>
         <source>Record and Upload Driver Camera</source>
@@ -2407,7 +2407,7 @@ SEARCH</source>
         <translation>開啟後單位將使用 km/h (速度) 和 °C (溫度)；關閉後單位將使用 mph (速度) 或 °F (溫度)。</translation>
     </message>
     <message>
-        <source>Use features, such as community supported hardware, from the open source community that are not maintained or supported by comma.ai and have not been confirmed to meet the standard safety model. Be extra cautious when using these features</source>
+        <source>Use features, such as community supported hardware, from the open source community that are not maintained or supported by retropilot.org and have not been confirmed to meet the standard safety model. Be extra cautious when using these features</source>
         <translation type="vanished">開啟這個選項使用由社群維護的功能、硬體，請謹慎使用</translation>
     </message>
     <message>

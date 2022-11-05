@@ -231,7 +231,7 @@ A supported vehicle is one that just works when you install a comma three. All s
 <sup>8</sup>Includes versions with extra rear cargo space (may be called Variant, Estate, SportWagen, Shooting Brake, etc.) <br />
 
 ## Community Maintained Cars
-Although they're not upstream, the community has openpilot running on other makes and models. See the 'Community Supported Models' section of each make [on our wiki](https://wiki.comma.ai/).
+Although they're not upstream, the community has openpilot running on other makes and models. See the 'Community Supported Models' section of each make [on our wiki](https://wiki.retropilot.org/).
 
 # Don't see your car here?
 
@@ -261,7 +261,7 @@ All the cars that openpilot supports use a [CAN bus](https://en.wikipedia.org/wi
 ### Toyota Security
 
 openpilot does not yet support these Toyota models due to a new message authentication method.
-[Vote](https://comma.ai/shop/products/vote) if you'd like to see openpilot support on these models.
+[Vote](https://retropilot.org/shop/products/vote) if you'd like to see openpilot support on these models.
 
 * Toyota RAV4 Prime 2021+
 * Toyota Sienna 2021+

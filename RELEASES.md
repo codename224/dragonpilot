@@ -125,7 +125,7 @@ Version 0.8.12 (2021-12-15)
    * Improved audio amplifier configuration
    * System reliability improvements
    * Update Python to 3.8.10
- * Raw logs upload moved to connect.comma.ai
+ * Raw logs upload moved to connect.retropilot.org
  * Fixed HUD alerts on newer Honda Bosch thanks to csouers!
  * Audi Q3 2020-21 support thanks to jyoung8607!
  * Lexus RC 2020 support thanks to ErichMoraga!
@@ -469,7 +469,7 @@ Version 0.6.2 (2019-07-29)
 
 Version 0.6.1 (2019-07-21)
 ========================
- * Remote SSH with comma prime and [ssh.comma.ai](https://ssh.comma.ai)
+ * Remote SSH with comma prime and [ssh.retropilot.org](https://ssh.retropilot.org)
  * Panda code Misra-c2012 compliance, tested against cppcheck coverage
  * Lockout openpilot after 3 terminal alerts for driver distracted or unresponsive
  * Toyota Sienna support thanks to wocsor!
@@ -534,7 +534,7 @@ Version 0.5.10 (2019-03-19)
  * New Driver Monitoring Model
  * Support QR codes for login using comma connect
  * Refactor comma pedal FW and use CRC-8 checksum algorithm for safety. Reflashing pedal is required.
-   Please see `#hw-pedal` on [discord](discord.comma.ai) for assistance updating comma pedal.
+   Please see `#hw-pedal` on [discord](discord.retropilot.org) for assistance updating comma pedal.
  * Additional speed limit rules for Germany thanks to arne182
  * Allow negative speed limit offsets
 

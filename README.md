@@ -39,13 +39,13 @@ Running on a dedicated device in a car
 ------
 
 To use openpilot in a car, you need four things
-* A supported device to run this software: a [comma three](https://comma.ai/shop/products/three).
+* A supported device to run this software: a [comma three](https://retropilot.org/shop/products/three).
 * This software. The setup procedure of the comma three allows the user to enter a URL for custom software.
-The URL, openpilot.comma.ai will install the release version of openpilot. To install openpilot master, you can use installer.comma.ai/commaai/master, and replacing commaai with another GitHub username can install a fork.
+The URL, openpilot.retropilot.org will install the release version of openpilot. To install openpilot master, you can use installer.retropilot.org/commaai/master, and replacing commaai with another GitHub username can install a fork.
 * One of [the 200+ supported cars](docs/CARS.md). We support Honda, Toyota, Hyundai, Nissan, Kia, Chrysler, Lexus, Acura, Audi, VW, and more. If your car is not supported but has adaptive cruise control and lane-keeping assist, it's likely able to run openpilot.
-* A [car harness](https://comma.ai/shop/products/car-harness) to connect to your car.
+* A [car harness](https://retropilot.org/shop/products/car-harness) to connect to your car.
 
-We have detailed instructions for [how to mount the device in a car](https://comma.ai/setup).
+We have detailed instructions for [how to mount the device in a car](https://retropilot.org/setup).
 
 Running on PC
 ------
@@ -56,32 +56,32 @@ With openpilot's tools, you can plot logs, replay drives, and watch the full-res
 
 You can also run openpilot in simulation [with the CARLA simulator](tools/sim/README.md). This allows openpilot to drive around a virtual car on your Ubuntu machine. The whole setup should only take a few minutes but does require a decent GPU.
 
-A PC running openpilot can also control your vehicle if it is connected to a [webcam](https://github.com/commaai/openpilot/tree/master/tools/webcam), a [black panda](https://comma.ai/shop/products/panda), and a [harness](https://comma.ai/shop/products/car-harness).
+A PC running openpilot can also control your vehicle if it is connected to a [webcam](https://github.com/commaai/openpilot/tree/master/tools/webcam), a [black panda](https://retropilot.org/shop/products/panda), and a [harness](https://retropilot.org/shop/products/car-harness).
 
 Community and Contributing
 ------
 
-openpilot is developed by [comma](https://comma.ai/) and by users like you. We welcome both pull requests and issues on [GitHub](http://github.com/commaai/openpilot). Bug fixes and new car ports are encouraged. Check out [the contributing docs](docs/CONTRIBUTING.md).
+openpilot is developed by [comma](https://retropilot.org/) and by users like you. We welcome both pull requests and issues on [GitHub](http://github.com/commaai/openpilot). Bug fixes and new car ports are encouraged. Check out [the contributing docs](docs/CONTRIBUTING.md).
 
-Documentation related to openpilot development can be found on [docs.comma.ai](https://docs.comma.ai). Information about running openpilot (e.g. FAQ, fingerprinting, troubleshooting, custom forks, community hardware) should go on the [wiki](https://github.com/commaai/openpilot/wiki).
+Documentation related to openpilot development can be found on [docs.retropilot.org](https://docs.retropilot.org). Information about running openpilot (e.g. FAQ, fingerprinting, troubleshooting, custom forks, community hardware) should go on the [wiki](https://github.com/commaai/openpilot/wiki).
 
-You can add support for your car by following guides we have written for [Brand](https://blog.comma.ai/how-to-write-a-car-port-for-openpilot/) and [Model](https://blog.comma.ai/openpilot-port-guide-for-toyota-models/) ports. Generally, a car with adaptive cruise control and lane keep assist is a good candidate. [Join our Discord](https://discord.comma.ai) to discuss car ports: most car makes have a dedicated channel.
+You can add support for your car by following guides we have written for [Brand](https://blog.retropilot.org/how-to-write-a-car-port-for-openpilot/) and [Model](https://blog.retropilot.org/openpilot-port-guide-for-toyota-models/) ports. Generally, a car with adaptive cruise control and lane keep assist is a good candidate. [Join our Discord](https://discord.retropilot.org) to discuss car ports: most car makes have a dedicated channel.
 
-Want to get paid to work on openpilot? [comma is hiring](https://comma.ai/jobs/).
+Want to get paid to work on openpilot? [comma is hiring](https://retropilot.org/jobs/).
 
 And [follow us on Twitter](https://twitter.com/comma_ai).
 
 User Data and comma Account
 ------
 
-By default, openpilot uploads the driving data to our servers. You can also access your data through [comma connect](https://connect.comma.ai/). We use your data to train better models and improve openpilot for everyone.
+By default, openpilot uploads the driving data to our servers. You can also access your data through [comma connect](https://connect.retropilot.org/). We use your data to train better models and improve openpilot for everyone.
 
 openpilot is open source software: the user is free to disable data collection if they wish to do so.
 
 openpilot logs the road-facing cameras, CAN, GPS, IMU, magnetometer, thermal sensors, crashes, and operating system logs.
 The driver-facing camera is only logged if you explicitly opt-in in settings. The microphone is not recorded.
 
-By using openpilot, you agree to [our Privacy Policy](https://comma.ai/privacy). You understand that use of this software or its related services will generate certain types of user data, which may be logged and stored at the sole discretion of comma. By accepting this agreement, you grant an irrevocable, perpetual, worldwide right to comma for the use of this data.
+By using openpilot, you agree to [our Privacy Policy](https://retropilot.org/privacy). You understand that use of this software or its related services will generate certain types of user data, which may be logged and stored at the sole discretion of comma. By accepting this agreement, you grant an irrevocable, perpetual, worldwide right to comma for the use of this data.
 
 Safety and Testing
 ----
@@ -132,7 +132,7 @@ Licensing
 
 openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
 
-Any user of this software shall indemnify and hold harmless Comma.ai, Inc. and its directors, officers, employees, agents, stockholders, affiliates, subcontractors and customers from and against all allegations, claims, actions, suits, demands, damages, liabilities, obligations, losses, settlements, judgments, costs and expenses (including without limitation attorneys’ fees and costs) which arise out of, relate to or result from any use of this software by user.
+Any user of this software shall indemnify and hold harmless retropilot.org, Inc. and its directors, officers, employees, agents, stockholders, affiliates, subcontractors and customers from and against all allegations, claims, actions, suits, demands, damages, liabilities, obligations, losses, settlements, judgments, costs and expenses (including without limitation attorneys’ fees and costs) which arise out of, relate to or result from any use of this software by user.
 
 **THIS IS ALPHA QUALITY SOFTWARE FOR RESEARCH PURPOSES ONLY. THIS IS NOT A PRODUCT.
 YOU ARE RESPONSIBLE FOR COMPLYING WITH LOCAL LAWS AND REGULATIONS.

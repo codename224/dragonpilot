@@ -372,9 +372,9 @@
     </message>
     <message>
         <source>Get turn-by-turn directions displayed and more with a comma
-prime subscription. Sign up now: https://connect.comma.ai</source>
+prime subscription. Sign up now: https://connect.retropilot.org</source>
         <translation>احصل على الاتجاهات خطوة بخطوة معروضة والمزيد باستخدام comma
-الاشتراك الرئيسي. اشترك الآن: https://connect.comma.ai</translation>
+الاشتراك الرئيسي. اشترك الآن: https://connect.retropilot.org</translation>
     </message>
     <message>
         <source>No home
@@ -456,16 +456,16 @@ location set</source>
         <translation>قم بإقران جهازك بحساب comma الخاص بك</translation>
     </message>
     <message>
-        <source>Go to https://connect.comma.ai on your phone</source>
-        <translation>اذهب إلى https://connect.comma.ai من هاتفك</translation>
+        <source>Go to https://connect.retropilot.org on your phone</source>
+        <translation>اذهب إلى https://connect.retropilot.org من هاتفك</translation>
     </message>
     <message>
         <source>Click &quot;add new device&quot; and scan the QR code on the right</source>
         <translation>انقر على &quot;إضافة جهاز جديد&quot; وامسح رمز الاستجابة السريعة على اليمين</translation>
     </message>
     <message>
-        <source>Bookmark connect.comma.ai to your home screen to use it like an app</source>
-        <translation>ضع إشارة مرجعية على connect.comma.ai على شاشتك الرئيسية لاستخدامه مثل أي تطبيق</translation>
+        <source>Bookmark connect.retropilot.org to your home screen to use it like an app</source>
+        <translation>ضع إشارة مرجعية على connect.retropilot.org على شاشتك الرئيسية لاستخدامه مثل أي تطبيق</translation>
     </message>
 </context>
 <context>
@@ -475,8 +475,8 @@ location set</source>
         <translation>قم بالترقية الآن</translation>
     </message>
     <message>
-        <source>Become a comma prime member at connect.comma.ai</source>
-        <translation>كن عضوًا comme prime في connect.comma.ai</translation>
+        <source>Become a comma prime member at connect.retropilot.org</source>
+        <translation>كن عضوًا comme prime في connect.retropilot.org</translation>
     </message>
     <message>
         <source>PRIME FEATURES:</source>
@@ -506,8 +506,8 @@ location set</source>
         <translation>comma prime</translation>
     </message>
     <message>
-        <source>CONNECT.COMMA.AI</source>
-        <translation>CONNECT.COMMA.AI</translation>
+        <source>CONNECT.retropilot.org</source>
+        <translation>CONNECT.retropilot.org</translation>
     </message>
     <message>
         <source>COMMA POINTS</source>
@@ -729,8 +729,8 @@ location set</source>
         <translation>إنهاء الإعداد</translation>
     </message>
     <message>
-        <source>Pair your device with comma connect (connect.comma.ai) and claim your comma prime offer.</source>
-        <translation>قم بإقران جهازك بفاصلة connect (connect.comma.ai) واطلب عرض comma prime الخاص بك.</translation>
+        <source>Pair your device with comma connect (connect.retropilot.org) and claim your comma prime offer.</source>
+        <translation>قم بإقران جهازك بفاصلة connect (connect.retropilot.org) واطلب عرض comma prime الخاص بك.</translation>
     </message>
     <message>
         <source>Pair device</source>

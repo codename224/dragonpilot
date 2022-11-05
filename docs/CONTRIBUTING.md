@@ -1,13 +1,13 @@
 # How to contribute
 
-Our software is open source so you can solve your own problems without needing help from others. And if you solve a problem and are so kind, you can upstream it for the rest of the world to use. Check out our [post about externalization](https://blog.comma.ai/a-2020-theme-externalization/).
+Our software is open source so you can solve your own problems without needing help from others. And if you solve a problem and are so kind, you can upstream it for the rest of the world to use. Check out our [post about externalization](https://blog.retropilot.org/a-2020-theme-externalization/).
 
-Most open source development activity is coordinated through our [GitHub Discussions](https://github.com/commaai/openpilot/discussions) and [Discord](https://discord.comma.ai). A lot of documentation is available at https://docs.comma.ai and on our [blog](https://blog.comma.ai/).
+Most open source development activity is coordinated through our [GitHub Discussions](https://github.com/commaai/openpilot/discussions) and [Discord](https://discord.retropilot.org). A lot of documentation is available at https://docs.retropilot.org and on our [blog](https://blog.retropilot.org/).
 
 ### Getting Started
 
  * Setup your [development environment](../tools/)
- * Join our [Discord](https://discord.comma.ai)
+ * Join our [Discord](https://discord.retropilot.org)
  * Make sure you have a [GitHub account](https://github.com/signup/free)
  * Fork [our repositories](https://github.com/commaai) on GitHub
 
@@ -33,9 +33,9 @@ A good pull request has all of the following:
 
 ### Car Ports
 
-We've released a [Model Port guide](https://blog.comma.ai/openpilot-port-guide-for-toyota-models/) for porting to Toyota/Lexus models.
+We've released a [Model Port guide](https://blog.retropilot.org/openpilot-port-guide-for-toyota-models/) for porting to Toyota/Lexus models.
 
-If you port openpilot to a substantially new car brand, see this more generic [Brand Port guide](https://blog.comma.ai/how-to-write-a-car-port-for-openpilot/).
+If you port openpilot to a substantially new car brand, see this more generic [Brand Port guide](https://blog.retropilot.org/how-to-write-a-car-port-for-openpilot/).
 
 ## Testing
 
